@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [MCP Sentinel](https://mcp-sentinel.pasihakamaki.workers.dev)
+
+- **Offers:** Autonomous synthetic uptime, JSON-RPC 2.0 handshake verification, breaking schema drift detection, and dynamic SVG status badges for remote MCP servers.
+- **Access:** Free web auditor and live status badge generator at `https://mcp-sentinel.pasihakamaki.workers.dev`.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
